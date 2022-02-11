@@ -16,7 +16,6 @@ Build the application for the first time...
 
 ```
 $ npm run start
-```
 
 And start coding your Vanilla.js application, update the `src/index.html`, `src/index.css` or `src/app.js` depending on your needs.
 
